@@ -25,6 +25,6 @@ making it responsive and user-friendly on various devices.
 
 ## Links
 
-- [Live Preview](TODO)
+- [Live Preview](https://otp-component-gq5tz10d0-eucaue.vercel.app)
 - [Portfolio](https://www.eucaue.tech)
 - [Challenge](https://www.frontendpro.dev/frontend-coding-challenges/otp-verification-component-UiMLpAugWbrGYBzXAcly)
