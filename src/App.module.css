@@ -1,0 +1,43 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100dvw;
+  height: 100dvh;
+  background-color: var(--bg);
+}
+
+.textBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.2rem;
+  flex-direction: column;
+  margin-bottom: 2.5rem;
+}
+
+.textBox h1 {
+  color: var(--title);
+  font-size: 26px;
+  font-family: 'Merriweather', sans-serif;
+}
+
+.textBox p {
+  color: var(--p);
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  text-align: center;
+  padding-left: 0.5rem;
+}
+
+@media screen and (min-width: 768px) {
+  .textBox h1 {
+    font-size: 26px;
+  }
+
+  .textBox p {
+    font-size: 14px;
+    font-weight: 400;
+  }
+}
